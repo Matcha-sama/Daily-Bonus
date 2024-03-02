@@ -1,4 +1,4 @@
-# Daily-Bonus
+# Daily-Bonus 
 
 <p>
     <a href="https://github.com/jckling/Daily-Bonus/stargazers"><img src="https://img.shields.io/github/stars/jckling/Daily-Bonus" alt="GitHub stars"></a>
